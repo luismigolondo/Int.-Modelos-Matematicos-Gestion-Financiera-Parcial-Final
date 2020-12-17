@@ -1,0 +1,12 @@
+Evolucion de precios Sn: 
+N = 10 , Sigma = 0.01 
+Con Mn = 0, el precio es 0.9995001333081168 
+Con Mn = 1, el precio es 1.0095452766485116 
+Con Mn = 2, el precio es 1.0196913753578618 
+Con Mn = 3, el precio es 1.0299394440544936 
+Con Mn = 4, el precio es 1.0402905075538162 
+Con Mn = 5, el precio es 1.0507456009708063 
+Con Mn = 6, el precio es 1.0613057698235173 
+Con Mn = 7, el precio es 1.0719720701376354 
+Con Mn = 8, el precio es 1.0827455685520802 
+Con Mn = 9, el precio es 1.093627342425671 

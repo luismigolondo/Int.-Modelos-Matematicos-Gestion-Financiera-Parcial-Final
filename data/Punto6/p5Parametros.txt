@@ -1,0 +1,11 @@
+PARAMETROS PUNTO 5 
+Simulacion 1: n = 10 , nivel = 3 , ascenso/descenso = 2 , p = 0.1 , Tiempo de parada = [1, -1, 5, -1] , Tiempo de Alcance = 9
+Simulacion 2: n = 10 , nivel = 3 , ascenso/descenso = 2 , p = 0.2 , Tiempo de parada = [2, 1, 6, -1] , Tiempo de Alcance = 9
+Simulacion 3: n = 10 , nivel = 3 , ascenso/descenso = 2 , p = 0.3 , Tiempo de parada = [3, -1, 6, -1] , Tiempo de Alcance = 9
+Simulacion 4: n = 10 , nivel = 3 , ascenso/descenso = 2 , p = 0.4 , Tiempo de parada = [4, 1, 6, -1] , Tiempo de Alcance = 9
+Simulacion 5: n = 10 , nivel = 3 , ascenso/descenso = 2 , p = 0.5 , Tiempo de parada = [5, -1, 7, -1] , Tiempo de Alcance = 9
+Simulacion 6: n = 10 , nivel = 3 , ascenso/descenso = 2 , p = 0.6 , Tiempo de parada = [6, -1, 9, -1] , Tiempo de Alcance = 9
+Simulacion 7: n = 10 , nivel = 3 , ascenso/descenso = 2 , p = 0.7 , Tiempo de parada = [7, 1, 8, -1] , Tiempo de Alcance = 9
+Simulacion 8: n = 10 , nivel = 3 , ascenso/descenso = 2 , p = 0.8 , Tiempo de parada = [8, -1, 9, -1] , Tiempo de Alcance = 3
+Simulacion 9: n = 10 , nivel = 3 , ascenso/descenso = 2 , p = 0.9 , Tiempo de parada = [5, -1, 9, -1] , Tiempo de Alcance = 3
+Simulacion 10: n = 10 , nivel = 3 , ascenso/descenso = 2 , p = 1 , Tiempo de parada = [1, 1, 5, -1] , Tiempo de Alcance = 3

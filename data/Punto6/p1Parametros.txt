@@ -1,0 +1,11 @@
+PARAMETROS PUNTO 1 
+Simulacion 1: n = 10 , S = 5000 , u = 1.2 , d = 0.8, p = 0.1 
+Simulacion 2: n = 10 , S = 5000 , u = 1.2 , d = 0.8, p = 0.2 
+Simulacion 3: n = 10 , S = 5000 , u = 1.2 , d = 0.8, p = 0.3 
+Simulacion 4: n = 10 , S = 5000 , u = 1.2 , d = 0.8, p = 0.4 
+Simulacion 5: n = 10 , S = 5000 , u = 1.2 , d = 0.8, p = 0.5 
+Simulacion 6: n = 10 , S = 5000 , u = 1.2 , d = 0.8, p = 0.6 
+Simulacion 7: n = 10 , S = 5000 , u = 1.2 , d = 0.8, p = 0.7 
+Simulacion 8: n = 10 , S = 5000 , u = 1.2 , d = 0.8, p = 0.8 
+Simulacion 9: n = 10 , S = 5000 , u = 1.2 , d = 0.8, p = 0.9 
+Simulacion 10: n = 10 , S = 5000 , u = 1.2 , d = 0.8, p = 1 

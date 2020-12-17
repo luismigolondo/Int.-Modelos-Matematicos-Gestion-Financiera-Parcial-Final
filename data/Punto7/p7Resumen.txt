@@ -1,0 +1,11 @@
+Gestion de portafolio: 
+* Resumen de situaciones al final del archivo. 
+
+
+Resumen de situaciones: 
+NOTA: Se deben apalancar recursos. 
+Alerta se genero con los siguientes parametros: 
+-------------------- 
+| N = 1 
+| Xn - deltaN*Sn = -20.19090553297023 
+-------------------- 
