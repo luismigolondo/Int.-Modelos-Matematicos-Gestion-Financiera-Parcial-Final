@@ -7,5 +7,5 @@ NOTA: Se deben apalancar recursos.
 Alerta se genero con los siguientes parametros: 
 -------------------- 
 | N = 1 
-| Xn - deltaN*Sn = -20.19090553297023 
+| Xn - deltaN*Sn = -277.45058908781937 
 -------------------- 
